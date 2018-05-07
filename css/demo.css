@@ -1,0 +1,10 @@
+body{
+    background-color:purple;
+    overflow: hidden;
+}
+#d1
+{
+	background-image:url("仙女.jpg") ;
+	background-repeat:no-repeat ;
+	background-size: cover;
+}
